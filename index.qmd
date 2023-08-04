@@ -30,16 +30,16 @@ Come and join us in Prague.
 ## Details
 
 - **Who?** Everybody is welcome. No background knowledge necessary. 
-- **When?** 9th of August, 13:10-14:40 (but check the ICPhS schedule [here](https://www.icphs2023.org/programme/programme-/))
+- **When?** 9th of August, 14:40-16:00 (but check the ICPhS schedule [here](https://www.icphs2023.org/programme/programme-/))
 - **Where?** South Hall 2B
 
 
 ## Tentative schedule
 
-- 13:10: A short introduction to Big Team Science and the Special Session (by Timo Roettger)
-- 13:25-14:10: Group discussions on challenges of the BTS approach to Phonetics
-- 14:10-14:30: General discussion and summary 
-- 14:30: Wrap up (by Timo Roettger)
+- 14:40: A short introduction to Big Team Science and the Special Session (by Timo Roettger)
+- 14:55-15:35: Group discussions on challenges of the BTS approach to Phonetics
+- 15:35-15:50: General discussion and summary 
+- 15:50: Wrap up (by Timo Roettger)
 
 
 If you have any questions or are unsure whether this is for you, please reach out to either [Joseph Casillas](mailto:joseph.casillas@rutges.edu) or [Timo Roettger](mailto:timo.roettger@iln.uio.no). 
